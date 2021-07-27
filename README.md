@@ -7,7 +7,7 @@ Trie will provide you with performance, close to the one of hash table
 (currently by prefix substring)
 
 
-Member functions:
+## Member functions:
 - constructor | *Construct Trie*
 - constructor with copy | *Construct Trie with copy*
 - destructor | *Trie Destructor*
