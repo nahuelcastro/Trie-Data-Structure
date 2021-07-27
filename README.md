@@ -1,21 +1,21 @@
-# Trie or String Map Data Structure Implemetation in C++
+# Trie or String Map Data Structure Library in C++
 
 Member functions:
-- constructor
-- constructor with copy
-- destructor
-- operator=
+- constructor | *Construct Trie*
+- constructor with copy | *Construct Trie with copy*
+- destructor | *Trie Destructor*
+- operator= | *Assign content*
 
 Capacity:
-- size
-- empty
+- size | *Return size*
+- empty | *Test whether Trie is empty*
 
 Element access:
-- at
+- at | *Access element*
 
 Modifiers:
-- insert
-- erase
+- insert | *Insert elements*
+- erase | *Erase elements*
 
 Operations:
-- Count
+- Count | *Count elements with a specific key*
